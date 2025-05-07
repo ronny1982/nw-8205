@@ -2,7 +2,7 @@
   "name": "nw-8205",
   "main": "app.js",
   "dependencies": {
-    "nw": "0.99.0"
+    "nw": "latest"
   },
   "scripts": {
     "start": "nw ."
